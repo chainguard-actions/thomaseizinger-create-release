@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| 2.0.0 | [`2.0.0`](https://github.com/chainguard-actions/thomaseizinger-create-release/tree/2.0.0) | [`fc01179`](https://github.com/thomaseizinger/create-release/commit/fc01179794c6992c88cad2936c7d82804f5f7f93) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| 2.0.0 | [`2.0.0`](https://github.com/chainguard-actions/thomaseizinger-create-release/tree/2.0.0) | [`fc01179`](https://github.com/thomaseizinger/create-release/commit/fc01179794c6992c88cad2936c7d82804f5f7f93) | [`HARDENING.md`](https://github.com/chainguard-actions/thomaseizinger-create-release/blob/2.0.0/HARDENING.md) |
 
 ## Privacy
 
